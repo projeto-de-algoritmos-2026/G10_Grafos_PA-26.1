@@ -5,8 +5,8 @@ Coleta dados do PeeringDB, constroi grafo de ASNs do IX.br
 e calcula o caminho mais curto entre dois ASNs usando Dijkstra.
 
 Uso:
-    python main.py                  -> modo interativo
-    python main.py 16735 8167      -> caminho direto entre 2 ASNs
+    python3 src/main.py                  -> modo interativo
+    python3 src/main.py 16735 8167      -> caminho direto entre 2 ASNs
 """
 
 import sys
