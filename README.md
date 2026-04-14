@@ -79,4 +79,7 @@ O projeto usa cache local em `src/ixbr_cache.json` para evitar múltiplas consul
 Se quiser atualizar os dados, remova o arquivo de cache e execute o programa novamente.
 
 ## Link do vídeo
-Para acessar a apresentação, clique neste link: <br>
+
+Para acessar a apresentação, clique no link abaixo:
+
+[Assistir ao vídeo](https://youtu.be/un5dFYNQz-s)
